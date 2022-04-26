@@ -1,0 +1,111 @@
+﻿body
+
+/*center*/
+.center {margin-left:auto; 
+         margin-right:auto; 
+         width:50%;
+         position:relative; 
+         text-align:center;
+}
+
+/*header button size*/
+.hbsize {height:30px; 
+         width:105px;
+}
+
+/*page main image*/
+.mimage {background-repeat:no-repeat;
+         background-size:100% 100%;
+         height:700px;
+         width:100%;
+         position:relative; 
+         top:35px;
+}
+
+/*page main image text*/
+.tmimage {display:inline-block;
+          width: 170px;
+          height: 285px;
+          font-family:Calibri;
+          font-size:18px;
+          color:white;
+          background-color:#8c8c8c;
+          position:relative;
+          right:-10px;
+          top:10px;
+          padding-left:10px;
+          padding-right:10px; 
+          font-style:italic;
+}
+
+/*footer layout*/
+.footer {background-color:#8c8c8c;
+         color:white;
+         font-family:Calibri;
+}
+
+/*contact text layout*/
+.context {padding-left:10px;
+          padding-top:1px;
+}
+
+/*fotter button layout*/
+.fbutton {display:block; 
+          text-align:right;
+          padding-right:10px;
+          margin-top:-50px;
+          position:relative; 
+          top:-40px;
+}
+
+/*footer button size*/
+.fbsize {height:25px;
+         width:100px;
+}
+
+/*index page image*/
+#indeximage {background-image:url(../images/background_main.jpg)
+}
+
+/*history page image*/
+#historyimage {background-image:url(../images/background_history.jpg)
+}
+
+/*nutrition page image*/
+#nutritionimage {background-image:url(../images/background_nutrition.jpg)
+}
+
+/*types page image*/
+#typesimage {background-image:url(../images/background_types.jpg)
+}
+
+/*jacobsen page image*/
+#jacobsenimage {background-image:url(../images/background_jacobsen.jpg)
+}
+
+/*jacobsen page image*/
+#chickenimage {background-image:url(../images/background_chicken.jpg)
+}
+
+/*set width for index page link images*/
+.limage {width:75%;
+         height:auto;
+}
+
+/*set position and format for body text*/
+.bodytext {position:relative;
+           top:50px;
+           margin-right:10px;
+           margin-left:10px; 
+           font-size:24px;
+}
+
+/*remove bullets and indent from list items*/
+.lindent {text-indent: -2.25em; 
+          list-style-type:none;
+}
+
+/*bold and underline font; types page definition title*/
+.boldunder {font-weight: bold;
+            text-decoration: underline;
+}
