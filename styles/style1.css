@@ -64,27 +64,27 @@
 }
 
 /*index page image*/
-#indeximage {background-image:url(../images/background_main.jpg)
+#indeximage {background-image:url(https://jfsproject.s3.us-east-2.amazonaws.com/images/background_main.jpg)
 }
 
 /*history page image*/
-#historyimage {background-image:url(../images/background_history.jpg)
+#historyimage {background-image:url(https://jfsproject.s3.us-east-2.amazonaws.com/images/background_history.jpg)
 }
 
 /*nutrition page image*/
-#nutritionimage {background-image:url(../images/background_nutrition.jpg)
+#nutritionimage {background-image:url(https://jfsproject.s3.us-east-2.amazonaws.com/images/background_nutrition.jpg)
 }
 
 /*types page image*/
-#typesimage {background-image:url(../images/background_types.jpg)
+#typesimage {background-image:url(https://jfsproject.s3.us-east-2.amazonaws.com/images/background_types.jpg)
 }
 
 /*jacobsen page image*/
-#jacobsenimage {background-image:url(../images/background_jacobsen.jpg)
+#jacobsenimage {background-image:url(https://jfsproject.s3.us-east-2.amazonaws.com/images/background_jacobsen.jpg)
 }
 
 /*jacobsen page image*/
-#chickenimage {background-image:url(../images/background_chicken.jpg)
+#chickenimage {background-image:url(https://jfsproject.s3.us-east-2.amazonaws.com/images/background_chicken.jpg)
 }
 
 /*set width for index page link images*/
